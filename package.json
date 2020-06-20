@@ -1,0 +1,43 @@
+{
+  "name": "nik",
+  "version": "3.3.0",
+  "description": "A simple bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js & java -jar Lavalink.jar",
+    "build": "pm2 restart index && clear && pm2 logs index"
+  },
+  "dependencies": {
+    "@lavalink/encoding": "^0.1.1",
+    "canvas": "^2.6.1",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.0",
+    "discord-jokes": "^1.0.12",
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "github:discordjs/commando",
+    "erela.js": "^1.1.8",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "imageapi.js": "^1.0.3",
+    "lavaclient": "^2.0.6",
+    "moment": "^2.25.3",
+    "moment-duration-format": "^2.3.2",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.13",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-os-utils": "^1.2.2",
+    "novelcovid": "^1.2.7",
+    "numeral": "^2.0.6",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "random-puppy": "^1.1.0",
+    "request-promise-native": "^1.0.8",
+    "sqlite": "^4.0.7",
+    "superagent": "^5.2.2",
+    "weather-js": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "Nik",
+  "license": "ISC"
+}
