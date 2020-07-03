@@ -2,7 +2,7 @@
 The v3 code of Nyro!
 
 ## Self-Hosting
-At this time, we will not provide any help with self-hosting. You are basically **on your own.** 
+Find out how to self host the bot [here](https://github.com/NikStudios/nyro-v3/blob/master/SELFHOSTING.md)
 We do not reccomend self-hosting this bot. We are not liable for anything you do maliciously with this code.
 However, we do reccomend checking out the rewrite by [inviting the bot to your guild](https://top.gg/bot/702214772749238392)
 
