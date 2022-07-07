@@ -20,7 +20,7 @@
     "https": "^1.0.0",
     "imageapi.js": "^1.0.3",
     "lavaclient": "^2.0.6",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.13",
