@@ -16,7 +16,7 @@
     "discord.js": "github:discordjs/discord.js",
     "discord.js-commando": "github:discordjs/commando",
     "erela.js": "^1.1.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "https": "^1.0.0",
     "imageapi.js": "^1.0.3",
     "lavaclient": "^2.0.6",
